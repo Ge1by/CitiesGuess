@@ -1,0 +1,7 @@
+D:\Учеба\3 курс\СИИ\CitiesGuess\bin\Debug\CitiesGuess.exe.config
+D:\Учеба\3 курс\СИИ\CitiesGuess\bin\Debug\CitiesGuess.exe
+D:\Учеба\3 курс\СИИ\CitiesGuess\bin\Debug\CitiesGuess.pdb
+D:\Учеба\3 курс\СИИ\CitiesGuess\obj\Debug\CitiesGuess.csprojAssemblyReference.cache
+D:\Учеба\3 курс\СИИ\CitiesGuess\obj\Debug\CitiesGuess.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\СИИ\CitiesGuess\obj\Debug\CitiesGuess.exe
+D:\Учеба\3 курс\СИИ\CitiesGuess\obj\Debug\CitiesGuess.pdb
